@@ -1,5 +1,5 @@
 # Archived
-Say bye to the old Bohumil. An updated version is at https://github.com/Mirrrek/bohumil
+Say bye to the old Bohumil. An updated version is at https://github.com/Mirrrek/Bohumil
 # Obsolete
 This dog shit code is obsolete, I'll upload a new fresh one in September (hopefully)...
 # Bohumil
